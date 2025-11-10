@@ -1,0 +1,9 @@
+# Placeholder for requirements.txt
+numpy>=1.19
+pandas>=1.1
+scikit-learn>=0.24
+matplotlib>=3.3
+joblib>=1.0
+# Tkinter is in stdlib for most installs (on Linux may need python3-tk)
+# Optional:
+nltk>=3.5
